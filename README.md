@@ -22,9 +22,9 @@ This will create a folder for the repository and copy all the files to it.
   * *If two people edit the same line:* `git merge` will report a merge conflict. The file will be changed so that it includes both versions of the changes with markers indicating the problematic lines. Edit the file to resolve the conflict, then add it using `git add` and commit the changes with `git commit`.
   * *If one person edits a file, and another removes it:* Decide whether to add or delete the file, and use `git add` or `git rm` followed by a commit.
 
-GitHub provides some documentation on conflict resolution (here)[https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/]. You should also look at the documentation for (`git merge`)[https://git-scm.com/docs/git-merge].
+GitHub provides some documentation on conflict resolution [here](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/). You should also look at the documentation for [`git merge`](https://git-scm.com/docs/git-merge).
 
 13. When you have finished, upload the changes with `git push`.
 
 ## Markdown
-This file is a special file for GitHub. Any directory containing a `README.md` will display some documentation in the GitHub Web page corresponding to the directory. If you want, practice writing README.md files. They're written in a language called (Markdown)[https://help.github.com/articles/markdown-basics/].
+This file is a special file for GitHub. Any directory containing a `README.md` will display some documentation in the GitHub Web page corresponding to the directory. If you want, practice writing README.md files. They're written in a language called [Markdown](https://help.github.com/articles/markdown-basics/).
