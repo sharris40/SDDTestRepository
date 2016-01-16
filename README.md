@@ -42,6 +42,8 @@ This repository is only a test. Use it for practicing.
 13. When you have finished, upload the changes with `git push`.
 
 ### Basic workflow
+#### Initial setup:
+`git clone *<repo name>*`&#21E8;`cd *<repo name>*`&#21E8;`git config user.name "*<your name>*"`&#21E8;`git config user.email "*<your e-mail>*"`
 
 ## Markdown
 This file is a special file for GitHub. Any directory containing a `README.md` will display some documentation in the GitHub Web page corresponding to the directory. If you want, practice writing README.md files. They&#x2019;re written in a language called [Markdown](https://help.github.com/articles/markdown-basics/).
