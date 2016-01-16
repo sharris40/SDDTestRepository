@@ -8,6 +8,7 @@ This repository is only a test. Use it for practicing.
 git clone git@github.com:sharris40/SDDTestRepository.git
 ```
 This will create a folder for the repository and copy all the files to it.
+
 3. Change to the repository.
 4. Configure your identity with the commands `git config user.name "*My Name*"` and `git config user.email "*my.email@example.com*"`. If you want your identity to apply to all repositories, add `--global` after `git config`.
 5. Create a branch with `git branch *my_branch*`. This is your local branch. You will make all changes in this branch.
@@ -20,7 +21,9 @@ This will create a folder for the repository and copy all the files to it.
 12. If you received updated files, be careful; someone else made changes while you were working. Luckily, Git is smart about file changes and will usually merge the two versions together. However, there are some conflicts that can occur:
   * *If two people edit the same line:* `git merge` will report a merge conflict. The file will be changed so that it includes both versions of the changes with markers indicating the problematic lines. Edit the file to resolve the conflict, then add it using `git add` and commit the changes with `git commit`.
   * *If one person edits a file, and another removes it:* Decide whether to add or delete the file, and use `git add` or `git rm` followed by a commit.
+
 GitHub provides some documentation on conflict resolution (here)[https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/]. You should also look at the documentation for (`git merge`)[https://git-scm.com/docs/git-merge].
+
 13. When you have finished, upload the changes with `git push`.
 
 ## Markdown
