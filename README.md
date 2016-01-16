@@ -43,10 +43,10 @@ This repository is only a test. Use it for practicing.
 
 ### Basic workflow
 #### Initial setup:
-`git clone *<repo name>*`&#x21E8;`cd *<repo name>*`&#x21E8;`git config user.name "*<your name>*"`&#x21E8;`git config user.email "*<your e-mail>*"`&#x21E8;`git branch *<branch name>*`
+`git clone *<repo name>*`⇨`cd *<repo name>*`⇨`git config user.name "*<your name>*"`⇨`git config user.email "*<your e-mail>*"`⇨`git branch *<branch name>*`
 
 #### Editing files
-`git checkout *<branch name>*`&#x21E8;Make changes&#x21E8;`git add *<new/changed file>*`&#x21E8;`git add *<another new/changed file>*`&#x21E8;&#x2026;&#x21E8;`git commit [-a] -m "*<message>*"&#x21E8;Make more changes&#x21E8;Make more commits&#x21E8;&#x2026;&#x21E8;`git checkout master`&#x21E8;`git pull`&#x21E8;`git merge *<branch name>*`&#x21E8;resolve conflicts&#x21E8;`git add *<file you fixed>*`&#x21E8;`git add *<another file you fixed>*&#x21E8;&#x2026;&#x21E8;`git commit -m "*<message explaining fixes>*"&#x21E8;`git push`
+`git checkout *<branch name>*`⇨Make changes⇨`git add *<new/changed file>*`⇨`git add *<another new/changed file>*`⇨…⇨`git commit [-a] -m "*<message>*"⇨Make more changes⇨Make more commits⇨…⇨`git checkout master`⇨`git pull`⇨`git merge *<branch name>*`⇨resolve conflicts⇨`git add *<file you fixed>*`⇨`git add *<another file you fixed>*⇨…⇨`git commit -m "*<message explaining fixes>*"⇨`git push`
 
 ## Markdown
-This file is a special file for GitHub. Any directory containing a `README.md` will display some documentation in the GitHub Web page corresponding to the directory. If you want, practice writing README.md files. They&#x2019;re written in a language called [Markdown](https://help.github.com/articles/markdown-basics/).
+This file is a special file for GitHub. Any directory containing a `README.md` will display some documentation in the GitHub Web page corresponding to the directory. If you want, practice writing README.md files. They’re written in a language called [Markdown](https://help.github.com/articles/markdown-basics/).
