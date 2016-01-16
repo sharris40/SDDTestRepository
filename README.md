@@ -43,10 +43,10 @@ This repository is only a test. Use it for practicing.
 
 ### Basic workflow
 #### Initial setup:
-`git clone *<repo name>*`&#x200B;⇨&#x200B;`cd *<repo name>*`&#x200B;⇨&#x200B;`git config user.name "*<your name>*"`&#x200B;⇨&#x200B;`git config user.email "*<your e-mail>*"`&#x200B;⇨&#x200B;`git branch *<branch name>*`
+`git clone *<repo name>*`&#x200B;⇨`cd *<repo name>*`&#x200B;⇨`git config user.name "*<your name>*"`&#x200B;⇨`git config user.email "*<your e‑mail>*"`&#x200B;⇨`git branch *<branch name>*`
 
 #### Editing files
-`git checkout *<branch name>*`&#x200B;⇨&#x200B;Make changes&#x200B;⇨&#x200B;`git add *<new/changed file>*`&#x200B;⇨&#x200B;`git add *<another new/changed file>*`&#x200B;⇨&#x200B;…&#x200B;⇨&#x200B;`git commit [-a] -m "*<message>*"`&#x200B;⇨&#x200B;Make more changes&#x200B;⇨&#x200B;Make more commits&#x200B;⇨&#x200B;…&#x200B;⇨&#x200B;`git checkout master`&#x200B;⇨&#x200B;`git pull`&#x200B;⇨&#x200B;`git merge *<branch name>*`&#x200B;⇨&#x200B;resolve conflicts&#x200B;⇨&#x200B;`git add *<file you fixed>*`&#x200B;⇨&#x200B;`git add *<another file you fixed>*`&#x200B;⇨&#x200B;…&#x200B;⇨&#x200B;`git commit -m "*<message explaining fixes>*"`&#x200B;⇨&#x200B;`git push`
+`git checkout *<branch name>*`&#x200B;⇨Make changes&#x200B;⇨`git add *<new/changed file>*`&#x200B;⇨`git add *<another new/changed file>*`&#x200B;⇨…&#x200B;⇨`git commit [-a] -m "*<message>*"`&#x200B;⇨Make more changes&#x200B;⇨Make more commits&#x200B;⇨…&#x200B;⇨`git checkout master`&#x200B;⇨`git pull`&#x200B;⇨`git merge *<branch name>*`&#x200B;⇨resolve conflicts&#x200B;⇨`git add *<file you fixed>*`&#x200B;⇨`git add *<another file you fixed>*`&#x200B;⇨…&#x200B;⇨`git commit -m "*<message explaining fixes>*"`&#x200B;⇨`git push`
 
 ## Markdown
 This file is a special file for GitHub. Any directory containing a `README.md` will display some documentation in the GitHub Web page corresponding to the directory. If you want, practice writing README.md files. They’re written in a language called [Markdown](https://help.github.com/articles/markdown-basics/).
