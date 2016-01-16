@@ -13,7 +13,7 @@ This repository is only a test. Use it for practicing.
 
 3.  Change to the repository.
 
-4.  Configure your identity with the commands `git config user.name "*My Name*"` and `git config user.email "*my.email@example.com*"`. If you want your identity to apply to all repositories, add `--global` after `git config`.
+4.  Configure your identity with the commands `git config user.name "<var>My Name</var>"` and `git config user.email "*my.email@example.com*"`. If you want your identity to apply to all repositories, add `--global` after `git config`.
 
 5.  Create a branch with `git branch *my_branch*`. This is your local branch. You will make all changes in this branch.
 
