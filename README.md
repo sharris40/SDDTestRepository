@@ -77,10 +77,12 @@ This repository is only a test. Use it for practicing.
 
 #### Editing files
 `git checkout <branch name>`&#x200B;⇨ Make changes
-⇨`git add <new/changed file>`&#x200B;⇨`git add <another new/changed file>`&#x200B;⇨…&#x200B;⇨`git commit [-a] -m "<message>"`&#x200B;⇨ Make more changes
-⇨ Make more commits
-⇨…&#x200B;⇨`git checkout master`&#x200B;⇨`git pull`&#x200B;⇨`git merge <branch name>`&#x200B;⇨ resolve conflicts
-&#x200B;⇨`git add <file you fixed>`&#x200B;⇨`git add <another file you fixed>`&#x200B;⇨…&#x200B;⇨`git commit -m "<message explaining fixes>"`&#x200B;⇨`git push`
+⇨`git add <new/changed file>`&#x200B;⇨`git add <another new/changed file>`&#x200B;⇨ …
+⇨`git commit [-a] -m "<message>"`&#x200B;⇨ Make more changes
+⇨ Make more commits ⇨ …
+⇨`git checkout master`&#x200B;⇨`git pull`&#x200B;⇨`git merge <branch name>`&#x200B;⇨ resolve conflicts
+&#x200B;⇨`git add <file you fixed>`&#x200B;⇨`git add <another file you fixed>`&#x200B;⇨ …
+⇨`git commit -m "<message explaining fixes>"`&#x200B;⇨`git push`
 
 ## Markdown
 This file is a special file for GitHub. Any directory containing a `README.md`
